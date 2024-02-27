@@ -1,4 +1,4 @@
-# azure-cv
+# Azure-CV
 Moje CV w Azure
 
 ## Pierwsze kroki
